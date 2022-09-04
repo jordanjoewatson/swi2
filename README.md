@@ -1,6 +1,8 @@
 # swi2
 
-SWI Prolog Threat Hunting tool, to identify Command and Control (C2) channels. Identifies C2 channels such as Cobalt Strike beacons with varying delay and jitter by examining entropy of time between consequitive network request 
+SWI Prolog Threat Hunting tool, to identify Command and Control (C2) channels. Identifies C2 channels such as Cobalt Strike beacons with varying delay and jitter by examining entropy of time between consequitive network request.
+
+Analysis of data and writeup: <URL>
 
 ## Usage (Docker):
 
